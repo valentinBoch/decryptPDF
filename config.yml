@@ -1,0 +1,8 @@
+# config.yml
+data:
+  path_source: ""
+  #Example path_source: "/Users/michel/Downloads"
+  path_dest: ""
+  #Example path_source: "/Users/michel/Downloads/PDFWithoutPassword"
+  password: ""
+  #Example password: "azerty123"
