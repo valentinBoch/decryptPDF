@@ -20,5 +20,5 @@ Install requirements
 Run command terminal, go to the directory decryptPDF, then run the following command
 
 ```bash
-  python3 decryptPDF.py
+  python3 decrypt_pdf.py
 ```
